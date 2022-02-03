@@ -1,0 +1,7 @@
+-
+  name: install http
+  hosts: host1
+  roles:
+    #- httpd
+    #- ngnix
+    - ecomproject

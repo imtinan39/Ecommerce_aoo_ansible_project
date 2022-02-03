@@ -1,0 +1,8 @@
+
+
+
+- name: "starting  task 1 service using ansible Role"
+  service: 
+     name: httpd
+     state: started
+
