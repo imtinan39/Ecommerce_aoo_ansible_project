@@ -1,4 +1,4 @@
 
 [host1]
-server1 ansible_host=192.168.43.138 ansible_user=root
+server1 ansible_host=192.168.44.138 ansible_user=root
 
